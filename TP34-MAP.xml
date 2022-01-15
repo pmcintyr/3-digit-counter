@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<LogisimGoesFPGABoardMapInformation>
+   <GlobalMapInformation BoardName="GECKO4_EDUCATION_EPFL_EDITION" ToplevelCircuitName="TP34"/>
+   <MAPPEDCOMPONENT_1 Height="32" Key="BUTTON: /But" LocationX="414" LocationY="84" Width="33"/>
+   <MAPPEDCOMPONENT_2 Height="33" Key="BUTTON: /reset" LocationX="349" LocationY="82" Width="33"/>
+   <MAPPEDCOMPONENT_3 Height="12" Key="LED: /Q00" LocationX="150" LocationY="151" Width="5"/>
+   <MAPPEDCOMPONENT_4 Height="12" Key="LED: /Q01" LocationX="150" LocationY="167" Width="5"/>
+   <MAPPEDCOMPONENT_5 Height="12" Key="LED: /Q02" LocationX="150" LocationY="183" Width="5"/>
+   <MAPPEDCOMPONENT_6 Height="12" Key="LED: /Q10" LocationX="141" LocationY="151" Width="5"/>
+   <MAPPEDCOMPONENT_7 Height="12" Key="LED: /Q11" LocationX="141" LocationY="167" Width="5"/>
+   <MAPPEDCOMPONENT_8 Height="12" Key="LED: /Q12" LocationX="141" LocationY="183" Width="5"/>
+   <MAPPEDCOMPONENT_9 Height="12" Key="LED: /Q20" LocationX="131" LocationY="151" Width="5"/>
+   <MAPPEDCOMPONENT_a Height="12" Key="LED: /Q21" LocationX="131" LocationY="167" Width="5"/>
+   <MAPPEDCOMPONENT_b Height="12" Key="LED: /Q22" LocationX="131" LocationY="183" Width="5"/>
+   <MAPPEDCOMPONENT_c Height="52" Key="SEVENSEGMENT: /Disp0" LocationX="366" LocationY="150" Width="70"/>
+   <MAPPEDCOMPONENT_d Height="53" Key="SEVENSEGMENT: /Disp1" LocationX="365" LocationY="203" Width="71"/>
+   <MAPPEDCOMPONENT_e Height="52" Key="SEVENSEGMENT: /Disp2" LocationX="365" LocationY="257" Width="70"/>
+</LogisimGoesFPGABoardMapInformation>
